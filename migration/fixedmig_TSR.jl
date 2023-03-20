@@ -15,6 +15,7 @@ function fixedmig_TSR(m,s,h,hN,σ,Rm,K,xD,yD,ϵ,ν,μ,β,ξ,width,height,pmig,pr
 # μ=1e-8)
 # β = fraction of functional resistant NHEJ mutations
 # ξ = fraction of functional resistant single nucleotide mutations
+# width, height - number of squares across and up in the grid of mosquitos.
 # preexisting = 1,0 to run a burn in period of 1/σ and set initial allele
 # frequencies or not, respectively
 # T = length of simulations in generations
