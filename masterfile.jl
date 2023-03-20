@@ -13,6 +13,9 @@ include("Harry_Anthony_Code\\Allele_var_Mtx.jl")
 include("migration\\fixedmig_TSR.jl")
 include("migration\\square_deme_migration.jl")
 include("migration\\sqmignewfrequency.jl")
+include("mated_females\\inbreeding_new.jl")
+include("mated_females\\mating_new.jl")
+include("mated_females\\unmated.jl")
 
 using Distributions
 using LinearAlgebra
